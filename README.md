@@ -1,4 +1,4 @@
-# Drastic-VantageDrastic Vantage
+# Drastic-Vantage
 
 Disaster Relief Supply Distribution Management System
 
